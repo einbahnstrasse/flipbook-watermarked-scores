@@ -3,19 +3,19 @@
 _A growing list of Louis Goldford’s compositions, 2014—2024._     
 _Gorgeous, watermarked scores in flipbook form:_       
     
-* [goldford-audiendum-extimate.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-audiendum-extimate.html){:target="_blank"}     
-* [goldford-embers.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-embers.html){:target="_blank"}     
-* [goldford-ensconced.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-ensconced.html){:target="_blank"}     
-* [goldford-fiction-of-time-destroyed.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-fiction-of-time-destroyed.html){:target="_blank"}     
-* [goldford-giffen-good.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-giffen-good.html){:target="_blank"}     
-* [goldford-mauvaise-foi.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-mauvaise-foi.html){:target="_blank"}     
-* [goldford-memoire-involontaire.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-memoire-involontaire.html){:target="_blank"}     
-* [goldford-shifting-signifier.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-shifting-signifier.html){:target="_blank"}     
-* [goldford-tell-me.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-tell-me.html){:target="_blank"}     
-* [goldford-transom.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-transom.html){:target="_blank"}     
-* [goldford-travertine-hybrid-3.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-travertine-hybrid-3.html){:target="_blank"}     
-* [goldford-uncanny-valley.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-uncanny-valley.html){:target="_blank"}     
-* [goldford-we-petrify.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-we-petrify.html){:target="_blank"}     
+* [goldford-audiendum-extimate.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-audiendum-extimate.html)     
+* [goldford-embers.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-embers.html)     
+* [goldford-ensconced.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-ensconced.html)     
+* [goldford-fiction-of-time-destroyed.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-fiction-of-time-destroyed.html)     
+* [goldford-giffen-good.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-giffen-good.html)     
+* [goldford-mauvaise-foi.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-mauvaise-foi.html)     
+* [goldford-memoire-involontaire.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-memoire-involontaire.html)     
+* [goldford-shifting-signifier.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-shifting-signifier.html)     
+* [goldford-tell-me.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-tell-me.html)     
+* [goldford-transom.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-transom.html)     
+* [goldford-travertine-hybrid-3.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-travertine-hybrid-3.html)     
+* [goldford-uncanny-valley.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-uncanny-valley.html)     
+* [goldford-we-petrify.html](https://einbahnstrasse.github.io/flipbook-watermarked-scores/goldford-we-petrify.html)     
    
 # PDF Flipbook
 
